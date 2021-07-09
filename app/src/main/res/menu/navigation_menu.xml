@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuProfile"
+        android:icon="@drawable/buses"
+        android:title="@string/buses"/>
+
+    <item
+        android:id="@+id/menuNotificaciones"
+        android:icon="@drawable/gasolina"
+        android:title="@string/gasolina"/>
+
+    <item
+        android:id="@+id/menuCollection"
+        android:icon="@drawable/hospital"
+        android:title="@string/hospital"/>
+
+    <item
+        android:id="@+id/menuInbox"
+        android:icon="@drawable/hoteles"
+        android:title="@string/hoteles"/>
+
+    <item
+        android:id="@+id/menuOrders"
+        android:icon="@drawable/lavadodeautos"
+        android:title="@string/lavado_de_autos"/>
+    <item android:title="@string/otras">
+        <menu>
+            <item
+                android:id="@+id/menuSettings"
+                android:icon="@drawable/lavanderia"
+                android:title="@string/lavanderia"/>
+
+            <item
+                android:id="@+id/menuSupport"
+                android:icon="@drawable/librerias"
+                android:title="@string/librerias"/>
+
+            <item
+                android:id="@+id/menuAboutus"
+                android:icon="@drawable/vuelos"
+                android:title="@string/vuelos"/>
+        </menu>
+    </item>
+
+</menu>

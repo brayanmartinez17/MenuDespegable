@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Apliqueichon</string>
+    <string name="buses">buses</string>
+    <string name="gasolina">gasolina</string>
+    <string name="hospital">hospital</string>
+    <string name="hoteles">hoteles</string>
+    <string name="lavado_de_autos">lavado de autos</string>
+    <string name="otras">otras</string>
+    <string name="settings">settings</string>
+    <string name="soporte">soporte</string>
+    <string name="about_us">about_us</string>
+    <string name="lavanderia">lavanderia</string>
+    <string name="librerias">librerias</string>
+    <string name="vuelos">vuelos</string>
+    <string name="verificado">verificado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notificaciones">notificaciones</string>
+    <string name="perfil">perfil</string>
+</resources>
